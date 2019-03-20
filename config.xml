@@ -15,7 +15,7 @@
   Elias Mayorga Campos
   </author>
   
-  <!-- Personaliza la alpicacion y plataforma -->
+  <!-- Personaliza la aplicacion y plataforma -->
   <preference name="orientation"         value="default"/>
   <!-- <preference name="orientation"        value="portrait"/>
   <preference name="orientation"         value="landscape"/> -->
